@@ -1,4 +1,4 @@
-import acm.graphics.GImage;
+/*  import acm.graphics.GImage;
 import acm.program.ConsoleProgram;
 import java.awt.Graphics2D;
 import java.awt.image.BufferedImage;
@@ -43,3 +43,4 @@ public class FlipPic extends ConsoleProgram{
 	}
 	
 }
+*/
